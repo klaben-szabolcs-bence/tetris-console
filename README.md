@@ -22,7 +22,7 @@ The game features:
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/klaben-szabolcs-bence/tetris-console.git
    cd tetris-console
    ```
 
